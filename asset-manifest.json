@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/backpack-calendar-app/static/css/main.ef2114e2.css",
+    "main.js": "/backpack-calendar-app/static/js/main.749bce7b.js",
+    "index.html": "/backpack-calendar-app/index.html",
+    "main.ef2114e2.css.map": "/backpack-calendar-app/static/css/main.ef2114e2.css.map",
+    "main.749bce7b.js.map": "/backpack-calendar-app/static/js/main.749bce7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef2114e2.css",
+    "static/js/main.749bce7b.js"
+  ]
+}
